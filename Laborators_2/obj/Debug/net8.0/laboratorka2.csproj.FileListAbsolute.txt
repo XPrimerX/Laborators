@@ -1,0 +1,14 @@
+C:\Users\ASRock\source\repos\laboratorka2\bin\Debug\net8.0\laboratorka2.exe
+C:\Users\ASRock\source\repos\laboratorka2\bin\Debug\net8.0\laboratorka2.deps.json
+C:\Users\ASRock\source\repos\laboratorka2\bin\Debug\net8.0\laboratorka2.runtimeconfig.json
+C:\Users\ASRock\source\repos\laboratorka2\bin\Debug\net8.0\laboratorka2.dll
+C:\Users\ASRock\source\repos\laboratorka2\bin\Debug\net8.0\laboratorka2.pdb
+C:\Users\ASRock\source\repos\laboratorka2\obj\Debug\net8.0\laboratorka2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASRock\source\repos\laboratorka2\obj\Debug\net8.0\laboratorka2.AssemblyInfoInputs.cache
+C:\Users\ASRock\source\repos\laboratorka2\obj\Debug\net8.0\laboratorka2.AssemblyInfo.cs
+C:\Users\ASRock\source\repos\laboratorka2\obj\Debug\net8.0\laboratorka2.csproj.CoreCompileInputs.cache
+C:\Users\ASRock\source\repos\laboratorka2\obj\Debug\net8.0\laboratorka2.dll
+C:\Users\ASRock\source\repos\laboratorka2\obj\Debug\net8.0\refint\laboratorka2.dll
+C:\Users\ASRock\source\repos\laboratorka2\obj\Debug\net8.0\laboratorka2.pdb
+C:\Users\ASRock\source\repos\laboratorka2\obj\Debug\net8.0\laboratorka2.genruntimeconfig.cache
+C:\Users\ASRock\source\repos\laboratorka2\obj\Debug\net8.0\ref\laboratorka2.dll
