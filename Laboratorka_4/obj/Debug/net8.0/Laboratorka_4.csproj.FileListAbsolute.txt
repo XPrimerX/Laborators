@@ -1,0 +1,14 @@
+C:\Users\ASRock\source\repos\Laboratorka_4\bin\Debug\net8.0\Laboratorka_4.exe
+C:\Users\ASRock\source\repos\Laboratorka_4\bin\Debug\net8.0\Laboratorka_4.deps.json
+C:\Users\ASRock\source\repos\Laboratorka_4\bin\Debug\net8.0\Laboratorka_4.runtimeconfig.json
+C:\Users\ASRock\source\repos\Laboratorka_4\bin\Debug\net8.0\Laboratorka_4.dll
+C:\Users\ASRock\source\repos\Laboratorka_4\bin\Debug\net8.0\Laboratorka_4.pdb
+C:\Users\ASRock\source\repos\Laboratorka_4\obj\Debug\net8.0\Laboratorka_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASRock\source\repos\Laboratorka_4\obj\Debug\net8.0\Laboratorka_4.AssemblyInfoInputs.cache
+C:\Users\ASRock\source\repos\Laboratorka_4\obj\Debug\net8.0\Laboratorka_4.AssemblyInfo.cs
+C:\Users\ASRock\source\repos\Laboratorka_4\obj\Debug\net8.0\Laboratorka_4.csproj.CoreCompileInputs.cache
+C:\Users\ASRock\source\repos\Laboratorka_4\obj\Debug\net8.0\Laboratorka_4.dll
+C:\Users\ASRock\source\repos\Laboratorka_4\obj\Debug\net8.0\refint\Laboratorka_4.dll
+C:\Users\ASRock\source\repos\Laboratorka_4\obj\Debug\net8.0\Laboratorka_4.pdb
+C:\Users\ASRock\source\repos\Laboratorka_4\obj\Debug\net8.0\Laboratorka_4.genruntimeconfig.cache
+C:\Users\ASRock\source\repos\Laboratorka_4\obj\Debug\net8.0\ref\Laboratorka_4.dll
