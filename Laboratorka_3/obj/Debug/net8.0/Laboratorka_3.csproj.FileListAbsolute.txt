@@ -1,0 +1,42 @@
+C:\Users\ASRock\source\repos\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.exe
+C:\Users\ASRock\source\repos\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.deps.json
+C:\Users\ASRock\source\repos\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.runtimeconfig.json
+C:\Users\ASRock\source\repos\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.dll
+C:\Users\ASRock\source\repos\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.pdb
+C:\Users\ASRock\source\repos\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASRock\source\repos\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.AssemblyInfoInputs.cache
+C:\Users\ASRock\source\repos\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.AssemblyInfo.cs
+C:\Users\ASRock\source\repos\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.csproj.CoreCompileInputs.cache
+C:\Users\ASRock\source\repos\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.dll
+C:\Users\ASRock\source\repos\Laboratorka_3\obj\Debug\net8.0\refint\Laboratorka_3.dll
+C:\Users\ASRock\source\repos\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.pdb
+C:\Users\ASRock\source\repos\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.genruntimeconfig.cache
+C:\Users\ASRock\source\repos\Laboratorka_3\obj\Debug\net8.0\ref\Laboratorka_3.dll
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.exe
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.deps.json
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.runtimeconfig.json
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.dll
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.pdb
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.AssemblyInfoInputs.cache
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.AssemblyInfo.cs
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.csproj.CoreCompileInputs.cache
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.dll
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\obj\Debug\net8.0\refint\Laboratorka_3.dll
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.pdb
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.genruntimeconfig.cache
+D:\Лабораторні семестр 2 курс 1\Laboratorka_3\obj\Debug\net8.0\ref\Laboratorka_3.dll
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.exe
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.deps.json
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.runtimeconfig.json
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.dll
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\bin\Debug\net8.0\Laboratorka_3.pdb
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.AssemblyInfoInputs.cache
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.AssemblyInfo.cs
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.csproj.CoreCompileInputs.cache
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.dll
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\obj\Debug\net8.0\refint\Laboratorka_3.dll
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.pdb
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\obj\Debug\net8.0\Laboratorka_3.genruntimeconfig.cache
+C:\Users\ASRock\Desktop\дод\Laboratorka_3\obj\Debug\net8.0\ref\Laboratorka_3.dll
