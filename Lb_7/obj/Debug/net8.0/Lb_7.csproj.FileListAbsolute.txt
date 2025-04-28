@@ -1,0 +1,14 @@
+C:\Users\ASRock\source\repos\Lb_7\obj\Debug\net8.0\Lb_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASRock\source\repos\Lb_7\obj\Debug\net8.0\Lb_7.AssemblyInfoInputs.cache
+C:\Users\ASRock\source\repos\Lb_7\obj\Debug\net8.0\Lb_7.AssemblyInfo.cs
+C:\Users\ASRock\source\repos\Lb_7\obj\Debug\net8.0\Lb_7.csproj.CoreCompileInputs.cache
+C:\Users\ASRock\source\repos\Lb_7\bin\Debug\net8.0\Lb_7.exe
+C:\Users\ASRock\source\repos\Lb_7\bin\Debug\net8.0\Lb_7.deps.json
+C:\Users\ASRock\source\repos\Lb_7\bin\Debug\net8.0\Lb_7.runtimeconfig.json
+C:\Users\ASRock\source\repos\Lb_7\bin\Debug\net8.0\Lb_7.dll
+C:\Users\ASRock\source\repos\Lb_7\bin\Debug\net8.0\Lb_7.pdb
+C:\Users\ASRock\source\repos\Lb_7\obj\Debug\net8.0\Lb_7.dll
+C:\Users\ASRock\source\repos\Lb_7\obj\Debug\net8.0\refint\Lb_7.dll
+C:\Users\ASRock\source\repos\Lb_7\obj\Debug\net8.0\Lb_7.pdb
+C:\Users\ASRock\source\repos\Lb_7\obj\Debug\net8.0\Lb_7.genruntimeconfig.cache
+C:\Users\ASRock\source\repos\Lb_7\obj\Debug\net8.0\ref\Lb_7.dll
