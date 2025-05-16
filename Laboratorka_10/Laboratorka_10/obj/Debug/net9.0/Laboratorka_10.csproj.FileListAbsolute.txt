@@ -1,0 +1,14 @@
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\bin\Debug\net9.0\Laboratorka_10.exe
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\bin\Debug\net9.0\Laboratorka_10.deps.json
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\bin\Debug\net9.0\Laboratorka_10.runtimeconfig.json
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\bin\Debug\net9.0\Laboratorka_10.dll
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\bin\Debug\net9.0\Laboratorka_10.pdb
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\obj\Debug\net9.0\Laboratorka_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\obj\Debug\net9.0\Laboratorka_10.AssemblyInfoInputs.cache
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\obj\Debug\net9.0\Laboratorka_10.AssemblyInfo.cs
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\obj\Debug\net9.0\Laboratorka_10.csproj.CoreCompileInputs.cache
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\obj\Debug\net9.0\Laboratorka_10.dll
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\obj\Debug\net9.0\refint\Laboratorka_10.dll
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\obj\Debug\net9.0\Laboratorka_10.pdb
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\obj\Debug\net9.0\Laboratorka_10.genruntimeconfig.cache
+D:\Лабораторні семестр 2 курс 1\Laboratorka_10\Laboratorka_10\obj\Debug\net9.0\ref\Laboratorka_10.dll

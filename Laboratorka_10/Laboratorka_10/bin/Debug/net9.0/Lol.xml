@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Bus>
+    <nomer>92</nomer>
+    <pid>Дмитрий Савченко</pid>
+    <time>1</time>
+    <Punkt>Львів</Punkt>
+  </Bus>
+  <Bus>
+    <nomer>82</nomer>
+    <pid>Ольга Шевченко</pid>
+    <time>4</time>
+    <Punkt>Київ</Punkt>
+  </Bus>
+  <Bus>
+    <nomer>94</nomer>
+    <pid>Владислав Ткаченко</pid>
+    <time>4</time>
+    <Punkt>Одеса</Punkt>
+  </Bus>
+  <Bus>
+    <nomer>86</nomer>
+    <pid>Мария Ковальчук</pid>
+    <time>1</time>
+    <Punkt>Київ</Punkt>
+  </Bus>
+  <Bus>
+    <nomer>49</nomer>
+    <pid>Алина Гриценко</pid>
+    <time>4</time>
+    <Punkt>Київ</Punkt>
+  </Bus>
+  <Bus>
+    <nomer>24</nomer>
+    <pid>Ольга Шевченко</pid>
+    <time>4</time>
+    <Punkt>Львів</Punkt>
+  </Bus>
+  <Bus>
+    <nomer>20</nomer>
+    <pid>Дмитрий Савченко</pid>
+    <time>2</time>
+    <Punkt>Львів</Punkt>
+  </Bus>
+</ArrayOfBus>
