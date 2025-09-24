@@ -1,0 +1,22 @@
+[
+  {
+    "LanguageFrom": null,
+    "LanguageTo": null,
+    "Words": {
+      "word": [
+        "слово"
+      ]
+    },
+    "Name": "hz"
+  },
+  {
+    "LanguageFrom": "English",
+    "LanguageTo": "Uk",
+    "Words": {
+      "word": [
+        "слово"
+      ]
+    },
+    "Name": "Hz"
+  }
+]
